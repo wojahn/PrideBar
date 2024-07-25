@@ -3,7 +3,7 @@
 # Written by John M. A. Wojahn July 2024
 # This is Free and Open-Source Software (F.O.S.S.)
 # © J.M.A. Wojahn
-FadeRainbowBar <- function()
+FadePrideBar <- function()
 {
   rm(countR7187258234717,envir = globalenv())
   rm(minz43252452352,envir = globalenv())
