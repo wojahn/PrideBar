@@ -9,7 +9,7 @@ PrideBar <- function()
   minz <- minz43252452352
   maxz <- maxz17089263184726
   countR7187258234717 <- countR7187258234717
-  if(missing(flag2704652793475) == F)
+  if(exists(flag2704652793475) == T)
   {
     flag <- flag2704652793475
   }else{
