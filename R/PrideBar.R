@@ -9,7 +9,12 @@ PrideBar <- function()
   minz <- minz43252452352
   maxz <- maxz17089263184726
   countR7187258234717 <- countR7187258234717
-  flag <- flag2704652793475
+  if(missing(flag2704652793475) == F)
+  {
+    flag <- flag2704652793475
+  }else{
+    flag <- 2
+  }
   countR7187258234717 <<- countR7187258234717 + 1
  if(flag == 1) {
     colors <- c("❤️", "🧡", "💛", "💚", "💙", "💜")
@@ -53,6 +58,10 @@ PrideBar <- function()
     colors <- c("💚", "🤍", "🩶", "🖤")
   }else if(flag == 21){
     colors <- c("🩷", "💚","💙")
+  }else if(flag == 22){
+   colors <- c("🤎","🧡","💛","🤍","🩶","🖤")
+  }else if(flag == 23){
+   colors <- c("🩷","💜","💙")
   }
   if(length(colors) < 4)
   {
