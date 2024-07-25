@@ -78,6 +78,10 @@ FadePrideBar() #clean up the bar
 
 21 Polysexual Pride  🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷💚💚💚💚💚💚💚💚💚💚💙💙💙💙💙💙💙💙💙💙   
 
+22 Bear Pride        
+
+23 Neutrois Pride
+
 ### Message me with more flags that should be included!
 
 
