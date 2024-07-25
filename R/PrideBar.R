@@ -62,6 +62,8 @@ PrideBar <- function()
    colors <- c("🤎","🧡","💛","🤍","🩶","🖤")
   }else if(flag == 23){
    colors <- c("🩷","💜","💙")
+  }else if(flag == 24){
+   colors <- c("🖤","🩷","🤍","❤️","🤎","🖤")
   }
   if(length(colors) < 4)
   {
