@@ -11,7 +11,11 @@ SetPrideBar <- function(min,max,flag)
   minz43252452352 <<- min
   maxz17089263184726 <<- max
   countR7187258234717 <<- 1
-  flag2704652793475 <<- flag
+  if(missing(flag) == F)
+  {
+    flag2704652793475 <<- flag
+  }else{
+    flag2704652793475 <<- 2
+  }
   W73206347626087364720 <<- 4
-
 }
